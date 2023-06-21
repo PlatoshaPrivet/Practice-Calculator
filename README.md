@@ -15,5 +15,5 @@
 Тест программы:
 ![image](https://github.com/PlatoshaPrivet/Practice-Calculator/assets/90001918/373a92bd-f316-4178-9c80-fda64ac1ea8c)
 ![image](https://github.com/PlatoshaPrivet/Practice-Calculator/assets/90001918/872adfd2-d309-4908-a686-5e9063dc0bc3)
-![image](https://github.com/PlatoshaPrivet/Practice-Calculator/assets/90001918/884de8f1-b337-4aa3-afcd-1b1f47ec60d5)
+![image](https://github.com/PlatoshaPrivet/Practice-Calculator/assets/90001918/6082d07c-144a-4398-978b-da73d03d4d6e)
 
